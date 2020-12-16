@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MultipleChoiceQuestionEvaluator/MultipleChoiceQuestionEvaluator/obj
+/TaskCalculatorProblem/AppRunner/bin/Debug/netcoreapp3.1
+/TaskCalculatorProblem/AppRunner/obj
+/TaskCalculatorProblem/TaskCalculatorProblem/bin/Debug/netstandard2.0
+/TaskCalculatorProblem/TaskCalculatorProblem/obj
+/TaskCalculatorProblem/TaskCalculatorProblem_Test/bin/Debug
+/TaskCalculatorProblem/TaskCalculatorProblem_Test/obj
+/.vs
+/TaskCalculatorProblem/.vs/TaskCalculatorProblem
+/MultipleChoiceQuestionEvaluator/.vs/QuestionEvaluator
+/TaskCalculatorProblem/packages

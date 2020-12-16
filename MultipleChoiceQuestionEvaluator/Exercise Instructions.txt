@@ -1,0 +1,3 @@
+
+Use the MultiChoieItem and AssessmentResult classes to implement the GetResults(List<MultiChoiceItem> multiChoiceItems, Dictionary<int, int> responses) function.
+GetResults should return an AssessmentResult with the number of items attempted, the number of correct items, and the total marks awarded.
